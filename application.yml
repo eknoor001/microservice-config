@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: USER_GITHUB_SERVICE
 
 eureka:
   instance:
